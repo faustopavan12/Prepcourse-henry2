@@ -1,2 +1,1 @@
-# Prepcourse-henry2
-prueba de repositorio henry
+Este proyecto es una prueba de como crear un repo y clonarlo
